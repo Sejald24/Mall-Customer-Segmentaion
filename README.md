@@ -1,5 +1,5 @@
+Customer Segmentation.ipynb
 Customer Segmentation Using Machine Learning
-
 Tools & Libraries: Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
 Highlights:
 EDA: Visualized data distributions and patterns using histograms, KDE plots, and boxplots to understand customer attributes.
